@@ -22,6 +22,7 @@
     <a href='https://github.com/GPiovesan?tab=repositories'><img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  </div>
 
+ <br>
 
 <div align="center"> 
    <a href="https://www.linkedin.com/in/gpiovesan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
